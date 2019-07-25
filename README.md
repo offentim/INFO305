@@ -1,0 +1,2 @@
+# INFO305
+Magnetometer
